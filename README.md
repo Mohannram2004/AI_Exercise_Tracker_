@@ -15,6 +15,12 @@ An AI-powered gym exercise tracker using Python, OpenCV, and MediaPipe to count 
 
 ## 🚀 How to Run
 
+Follow the steps below to set up and run the project on your local machine:
+
+### ✅ Step 1: Install Dependencies
+
+Make sure Python is installed. Then, open your terminal and run:
+
 ```bash
 pip install -r requirements.txt
 python exercise_tracker.py
